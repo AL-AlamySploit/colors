@@ -1,3 +1,20 @@
+# bash scripting
+Black="\[\e[99;30m\]" # Black
+
+Red="\[\e[99;31m\]" # Red
+
+Green="\[\e[99;32m\]" # Green
+
+Yellow="\[\e[99;33m\]" # Yellow
+
+Blue="\[\e[99;34m\]" # Blue
+
+Purple="\[\e[99;35m\]" # Purple
+
+Cyan="\[\e[99;36m\]" # Cyan
+
+White="\[\e[99;37m\]" # White
+
 # Regular Colors  
 
 Black="\[\033[0;30m\]" # Black
