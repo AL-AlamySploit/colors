@@ -15,7 +15,7 @@ Cyan="\[\e[99;36m\]" # Cyan
 
 White="\[\e[99;37m\]" # White
 
-# Regular Colors  
+# Regular Colors  python
 
 Black="\[\033[0;30m\]" # Black
 
