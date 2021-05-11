@@ -14,7 +14,13 @@ Purple="\[\e[99;35m\]" # Purple
 Cyan="\[\e[99;36m\]" # Cyan
 
 White="\[\e[99;37m\]" # White
+################################
+#bash 
+White="\e[1;77m" #White
+Green="\e[1;92m" #Green
+Yellow="\e[1;93m" #Yellow
 
+#################################
 # Regular Colors  python
 
 Black="\[\033[0;30m\]" # Black
